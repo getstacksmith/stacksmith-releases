@@ -1,5 +1,7 @@
 # Stacksmith
 
+[![Nice](https://api.nice.sbs/badge/n_Ie7NsW1dtjQ6.svg)](https://nice.sbs/button?id=n_Ie7NsW1dtjQ6)
+
 This public repository hosts release downloads and public issue tracking for
 [Stacksmith](https://getstacksmith.app/), a macOS app for running and inspecting
 local development stacks.
