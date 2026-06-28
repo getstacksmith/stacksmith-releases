@@ -19,6 +19,13 @@ or download Stacksmith from [getstacksmith.app](https://getstacksmith.app/).
 Release archives are Developer ID signed and notarized by Apple. Stacksmith may
 also use release assets from this repository for in-app update delivery.
 
+## Agent skill (Claude & Codex)
+
+The [`agent-skill/`](agent-skill/) folder contains an installable skill that teaches AI
+coding agents to author `.stacksmith.yml` files and control a running Stacksmith app through
+its MCP server. It covers both Claude Code (an Agent Skill) and Codex CLI (an `AGENTS.md`).
+See [agent-skill/README.md](agent-skill/README.md) for install steps.
+
 ## Issues
 
 Use
